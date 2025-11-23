@@ -1,0 +1,19 @@
+{
+  "name": "genius",
+  "version": "1.0.0",
+  "description": "Learning Java and Git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass-watch": "sass --watch ." 
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com//tofik1119/Genius"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.94.2"
+  }
+}
